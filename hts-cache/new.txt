@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:18:15	5232/5232	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%225ececa4d-247b%22	https://cypressthatkid.github.io/robots.txt		(from )
+13:18:15	2065/2065	---M-Z	200	added ('OK')	text/html	etag:W/%2260fb9d30-811%22	https://cypressthatkid.github.io/	C:/My%20Web%20Sites/dev%20creator/cypressthatkid.github.io/index.html	(from )
+13:18:15	559/559	---M-Z	200	added ('OK')	application/javascript	etag:W/%2260fb9d30-22f%22	https://cypressthatkid.github.io/js/movingtitle.js	C:/My%20Web%20Sites/dev%20creator/cypressthatkid.github.io/js/movingtitle.js	(from https://cypressthatkid.github.io/)
+13:18:15	26664/26664	---M-Z	200	added ('OK')	font/ttf	etag:W/%2260fb9d30-6828%22	https://cypressthatkid.github.io/fonts/hacked.ttf	C:/My%20Web%20Sites/dev%20creator/cypressthatkid.github.io/fonts/hacked.ttf	(from https://cypressthatkid.github.io/)
+13:18:16	29076/29076	---M-Z	200	added ('OK')	font/ttf	etag:W/%2260fb9d30-7194%22	https://cypressthatkid.github.io/fonts/gearcrank.ttf	C:/My%20Web%20Sites/dev%20creator/cypressthatkid.github.io/fonts/gearcrank.ttf	(from https://cypressthatkid.github.io/)
